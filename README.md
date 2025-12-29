@@ -17,7 +17,7 @@
 
 ## 🚀 About
 
-- ## 🏆 1st github account in the middle east [![Comitters](https://img.shields.io/badge/1st_Github_Account-DD2C00?&logo=fireship&logoColor=white)](https://instagram.com/thejulan) 
+- ## 🏆 1st github account in the Middle East [![Comitters.top](https://img.shields.io/badge/Click_To_See_The_List-DD2C00?&logo=fireship&logoColor=white)](https://committers.top/yemen)
 - ## 🔭 I’m currently working on **MalwareDetector** project
 - ## 🌱 I’m learning **Rust, Machine Learning**
 - ## 👯 I’m open to collaborate on open source projects
@@ -50,10 +50,9 @@
 
 ## 📁 Featured Projects
 
-
-| Project             | Description                                | Link                               |
-|---------------------|--------------------------------------------|------------------------------------|
-| **GRenameVirus**    | A virus detector & infected files fixer    | [![View Repo](https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white)]([https://github.com/thejulan/YOUR_REPO_NAME](https://github.com/thejulan/anti-grename-virus)) |
+| Project | Description | Link |
+|:---|:---|:---|
+| **GRenameVirus** | A virus detector & infected files fixer | <a href="https://github.com/thejulan/anti-grename-virus"><img src="https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white" width="250"></a> |
 
 ---
 
