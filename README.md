@@ -52,7 +52,7 @@
 
 | Project | Description | Link |
 |:---|:---|:---|
-| **GRenameVirus** | A virus detector & infected files fixer | <a href="https://github.com/thejulan/anti-grename-virus"><img src="https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white" width="250"></a> |
+| **GRenameVirus** | A virus detector & infected files fixer | <a href="https://github.com/thejulan/anti-grename-virus"><img src="https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white" width="100%"></a> |
 
 ---
 
