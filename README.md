@@ -39,15 +39,6 @@
 
 ---
 
-
-## 🔧 Technologies & Tools
-
-| Frontend      | Backend        | DevOps       | Others       |
-|---------------|----------------|--------------|--------------|
-| <img src="https://img.shields.io/badge/Flutter-50BFF1?style=for-the-badge&logo=flutter&logoColor=black" /> <img src="https://img.shields.io/badge/React-cyan?style=for-the-badge&logo=react&logoColor=black" /> <img src="https://img.shields.io/badge/VueJS-green?style=for-the-badge&logo=vuedotjs&logoColor=black" /> | <img src="https://img.shields.io/badge/NodeJS-yellow?style=for-the-badge&logo=nodedotjs&logoColor=black" /> <img src="https://img.shields.io/badge/Flask-10102B?style=for-the-badge&logo=flask&logoColor=white" /> | <img src="https://img.shields.io/badge/Docker-59B4E9?style=for-the-badge&logo=docker&logoColor=black" />       | <img src="https://img.shields.io/badge/Git-F05133?style=for-the-badge&logo=git&logoColor=black" /> <img src="https://img.shields.io/badge/Linux-F0B80F?style=for-the-badge&logo=linux&logoColor=black" />   |
-
----
-
 ## 📁 Featured Projects
 
 | Project | Description | Link |
